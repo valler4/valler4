@@ -1,10 +1,26 @@
 Hi there, I'm Nour! 👋
-🔭 I’m currently working on: A comprehensive Laravel web application featuring advanced payment integrations (Stripe & PayPal) and ticketing systems.
+Backend Developer | Laravel API Expert | Payment Solutions Specialist
 
-🌱 I’m currently learning: Mastering RESTful APIs and advanced backend architecture.
+🚀 What I'm currently working on:
+Drone: A robust Laravel 12 application featuring:
 
-⚡ Technical Stack: PHP, Laravel, MySQL.
+Multi-Gateway Payments: Advanced integration with Stripe, PayPal.
 
-📫 How to reach me: You can't.
+Real-time Logic: Instant chat and notifications powered by Laravel Reverb.
 
-🍟 Fun fact: I'm powered by French fries and clean code.
+RESTful API: Secure endpoints structured with Laravel Sanctum.
+
+🛠️ Technical Stack:
+Backend: PHP, Laravel 12.
+
+Database: MySQL (Advanced Architecture & Optimization).
+
+Tools: Docker (Laravel Sail), Postman (API Documentation), Ubuntu/Linux.
+
+Specialties: RESTful APIs, Payment Gateways, Real-time WebSockets, System Security.
+
+💡 Developer Philosophy:
+I am a dedicated Backend Specialist. I focus 100% on server-side excellence and clean architecture. I don't use JavaScript; I prefer the power and reliability of PHP-driven interactivity.
+
+🍟 Fun Fact:
+I'm powered by French fries and clean, bug-free code.
